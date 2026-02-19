@@ -165,11 +165,11 @@ All operations affected the AWS RDS PostgreSQL database.
 
 Application URL:
 
-`   http://   `
+`   http:// <EC2_PUBLIC_IP>  `
 
 Admin panel:
 
-`   http:///admin   `
+`   http://<EC2_PUBLIC_IP>/admin   `
 
 📊 Verification of Database Usage
 ---------------------------------
